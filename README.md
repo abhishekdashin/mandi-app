@@ -1,8 +1,18 @@
 # MandiApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
-Please install Angular CLI before building and running this app.
+This is the mandi web app. 
 
+Prerequisite:
+
+  1) Node Package Manager 5.6.0 or above
+  2) Angluar CLI 
+
+To install angular cli please use the following command
+
+```
+npm install -g @angular/cli
+
+```
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
